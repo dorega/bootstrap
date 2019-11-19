@@ -1,4 +1,4 @@
-<img style="float:left" height="128px"   src="/imaxes/galletas.jpg" alt="" />
+<img style="float:left" height="128px"   src="/imaxes/galleta.jpg" alt="" />
 
 # Bootstrap
 Aprendendo a traballar con GitHub, markdown e  co framework Bootstrap.
